@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/543637108839615434/b08bb339451a4dc08103e552af559a34/artifacts
+end_time: 1749381180890
+entry_point_name: ''
+experiment_id: '543637108839615434'
+lifecycle_stage: active
+run_id: b08bb339451a4dc08103e552af559a34
+run_name: casual-sponge-273
+run_uuid: b08bb339451a4dc08103e552af559a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749381165110
+status: 3
+tags: []
+user_id: ASUS

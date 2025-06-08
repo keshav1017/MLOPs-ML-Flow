@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2958201af1034828a437b4b61ee7a3e0/artifacts
+end_time: 1749379878555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2958201af1034828a437b4b61ee7a3e0
+run_name: resilient-ram-144
+run_uuid: 2958201af1034828a437b4b61ee7a3e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749379875712
+status: 3
+tags: []
+user_id: ASUS

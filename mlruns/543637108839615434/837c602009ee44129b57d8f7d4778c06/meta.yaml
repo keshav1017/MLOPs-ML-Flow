@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/543637108839615434/837c602009ee44129b57d8f7d4778c06/artifacts
+end_time: 1749380126224
+entry_point_name: ''
+experiment_id: '543637108839615434'
+lifecycle_stage: active
+run_id: 837c602009ee44129b57d8f7d4778c06
+run_name: gregarious-bass-896
+run_uuid: 837c602009ee44129b57d8f7d4778c06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749380125647
+status: 3
+tags: []
+user_id: ASUS

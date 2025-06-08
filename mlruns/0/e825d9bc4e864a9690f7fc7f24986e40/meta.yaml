@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e825d9bc4e864a9690f7fc7f24986e40/artifacts
+end_time: 1749378990204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e825d9bc4e864a9690f7fc7f24986e40
+run_name: brawny-grub-989
+run_uuid: e825d9bc4e864a9690f7fc7f24986e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378987404
+status: 3
+tags: []
+user_id: ASUS
