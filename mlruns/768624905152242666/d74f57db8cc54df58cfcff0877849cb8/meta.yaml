@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666/d74f57db8cc54df58cfcff0877849cb8/artifacts
+end_time: 1749393618851
+entry_point_name: ''
+experiment_id: '768624905152242666'
+lifecycle_stage: active
+run_id: d74f57db8cc54df58cfcff0877849cb8
+run_name: wise-wasp-425
+run_uuid: d74f57db8cc54df58cfcff0877849cb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749393601038
+status: 3
+tags: []
+user_id: ASUS

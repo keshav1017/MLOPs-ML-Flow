@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749397606063
+current_stage: Production
+description: ''
+last_updated_timestamp: 1749397653246
+name: Keshav-Model-1
+run_id: f47a1c20755d460aa12fc717ed417b85
+run_link: ''
+source: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666/f47a1c20755d460aa12fc717ed417b85/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666/f47a1c20755d460aa12fc717ed417b85/artifacts/random_forest
+user_id: null
+version: 2

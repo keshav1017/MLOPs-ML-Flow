@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666/0d18fe51929046d19f6c767cdf179254/artifacts
+end_time: 1749393611000
+entry_point_name: ''
+experiment_id: '768624905152242666'
+lifecycle_stage: active
+run_id: 0d18fe51929046d19f6c767cdf179254
+run_name: resilient-wasp-634
+run_uuid: 0d18fe51929046d19f6c767cdf179254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749393610936
+status: 3
+tags: []
+user_id: ASUS

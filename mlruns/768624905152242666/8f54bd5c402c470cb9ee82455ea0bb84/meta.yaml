@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666/8f54bd5c402c470cb9ee82455ea0bb84/artifacts
+end_time: 1749393610597
+entry_point_name: ''
+experiment_id: '768624905152242666'
+lifecycle_stage: active
+run_id: 8f54bd5c402c470cb9ee82455ea0bb84
+run_name: awesome-crow-822
+run_uuid: 8f54bd5c402c470cb9ee82455ea0bb84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749393610525
+status: 3
+tags: []
+user_id: ASUS

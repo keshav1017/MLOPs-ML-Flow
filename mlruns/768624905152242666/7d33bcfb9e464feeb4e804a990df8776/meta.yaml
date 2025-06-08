@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666/7d33bcfb9e464feeb4e804a990df8776/artifacts
+end_time: 1749393610352
+entry_point_name: ''
+experiment_id: '768624905152242666'
+lifecycle_stage: active
+run_id: 7d33bcfb9e464feeb4e804a990df8776
+run_name: traveling-hawk-159
+run_uuid: 7d33bcfb9e464feeb4e804a990df8776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749393610271
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ASUS/Desktop/ML-OPs/MLOPs-ML-Flow/mlruns/768624905152242666
+creation_time: 1749393081632
+experiment_id: '768624905152242666'
+last_update_time: 1749393081632
+lifecycle_stage: active
+name: breast-cancer-rf-hp
